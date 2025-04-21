@@ -19,5 +19,10 @@ export default function CardReducter(state,action) {
         default:
           return state;
   }
+return{
+<div>
+
+<div/>
+}
  
 }

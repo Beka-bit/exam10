@@ -10,5 +10,4 @@ function Cardprovider({children}) {
     </ContendCard.Provider>
   )
 }
-
 export default Cardprovider
